@@ -1,6 +1,6 @@
 ### Hey there 👋
 ## About me 
-I am Purvansh Gourh. A Computer Science undergraduate at NIT Jaipur.I worked as a Software Development Intern at PharmEasy from May 2020 to July 2020.
+I am Purvansh Gourh. I work as Senior Analyst at Deutsche Bank. I graduated from NIT Jaipur in CSE in 2021. Being a full stack developer, I have worked on React, Java, NodeJs, SQL etc. as well as extending my hands on to cloud computing on GCP.
 
 ## Things I love :heart:
 * :zap: Web Development
@@ -9,8 +9,8 @@ I am Purvansh Gourh. A Computer Science undergraduate at NIT Jaipur.I worked as 
 * :tophat:	Harry Potter 
 
 ## I'm currently
-* 🌱 Learning react.js
-* 🔭 Working on making a quiz website
+* 🌱 Working as a Fullstack developer
+* 🔭 Learning new technologies
 
 ## Reach Me Out :coffee:	
 * 🌐 [my portfolio](https://purvansh-gourh.github.io/my-portfolio)
